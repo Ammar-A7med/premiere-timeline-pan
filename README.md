@@ -1,3 +1,5 @@
+[English](README.md) | [العربية](README.ar.md)
+
 # Premiere Timeline Pan
 
 An AutoHotkey script that lets you pan the timeline in Adobe Premiere Pro.
