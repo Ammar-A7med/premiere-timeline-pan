@@ -6,7 +6,7 @@ An AutoHotkey script that lets you pan the timeline in Adobe Premiere Pro.
 
 ## Download
 
-[**Download Premiere Timeline Pan (.ahk)**](https://github.com/Ammar-A7med/premiere-timeline-pan/raw/refs/heads/main/premiere-timeline-pan.ahk)
+[**Download Premiere Timeline Pan (.ahk)**](https://github.com/Ammar-A7med/premiere-timeline-pan/raw/refs/heads/main/premiere-timeline-pan.ahk?download=1)
 
 ## Run on Windows Startup
 
