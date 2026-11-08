@@ -2,7 +2,7 @@
 
 # Premiere Timeline Pan
 
-سكريبت AutoHotkey بيتيحلك تحريك الـ Timeline في Adobe Premiere Pro.
+سكريبت AutoHotkey بيتيحلك تحريك الـ Timeline في Adobe Premiere.
 
 ## تشغيل السكريبت مع بدء تشغيل الويندوز
 
